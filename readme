@@ -1,0 +1,25 @@
+Name 	: Keith Djouba
+
+Date	: November 28, 2017
+
+OS	: windows 10
+
+Platform that coded on:
+	Visual Studio 2015 (32-bit)
+Special need to compile : appropiate extra libraries and header files will compile
+
+Bugs	:
+	1) Error message when entering input
+	2) program incomplete
+
+
+
+How I approached the problem :
+
+	Code Flow:
+
+	1) c++ code wich user will prompt the SQL
+	2) Checking the sample SQL connector
+	3) I tested the localhost
+	4) sending queries to server and getting reply from it
+	4) I'll tried to run the file on a compiler ONLINE but #include <cstdio> crashed the compiler
